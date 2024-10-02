@@ -3,7 +3,7 @@ safe: true
 source: jtl8903.github.io
 incremental: false
 highlighter: rouge
-gist
+gist:
   noscript: false
 kramdown:
   math_engine: mathjax
